@@ -1,7 +1,7 @@
 ![logo](https://kpriet.ac.in/asset/frontend/images/ask/computer-science-engineer/header.jpg)
 
 <h1 align="center">Hi, I'm Awais khan</h1>
-<h3 align="center" width="400" > Front-End web developer and UI designer from hyderabad, india. i build things for web with good knowledge of front-end techniques </h3>
+<h3 align="center" width="400" > A Front-End web developer, UI designer and Tester from hyderabad, india. i build things for web with good knowledge of front-end techniques </h3>
 <h3>____________________________________________________________________________________________________________________</h3></h3>
 <p><img align="right" width="400" src="https://t4.ftcdn.net/jpg/03/13/40/45/360_F_313404541_e9YZ3pht6oEEkMXuhxTboqXA2B2ShNnC.jpg" alt="awaixs" /></p>
 
